@@ -221,3 +221,368 @@ OUTPUT: Certainly! Here's an improved version of your workout playlist based on 
 
 Let me know if you want the playlist tailored for specific workout types (HIIT, running, strength, etc.) or durations!
 EVAL: {'score': 2, 'confidence': 0.6666666666666666, 'length': 2623}
+
+TIME: 2026-04-30 15:09:03.521438
+INPUT: sad music
+OUTPUT: Playlist for Sad Music (calm, piano):
+
+1. **"River Flows in You" – Yiruma**  
+   A gentle and melodic piano piece that evokes deep emotions and a sense of calm introspection.
+
+2. **"Experience" – Ludovico Einaudi**  
+   Minimalist piano with subtle crescendos, perfectly capturing contemplative sadness without overwhelming intensity.
+
+3. **"Comptine d’un autre été: L’après-midi" – Yann Tiersen**  
+   Soft, repetitive piano motifs that create a wistful and melancholic atmosphere.
+
+4. **"Nuvole Bianche" – Ludovico Einaudi**  
+   Emotional and flowing piano composition that balances sorrow with hopeful undertones.
+
+5. **"Opus 55" – Dustin O’Halloran**  
+   Sparse and delicate piano melodies that provide space for reflection and gentle sadness.
+
+6. **"Melancholy Waltz" – Kevin Kern**  
+   A calming piano waltz that conveys bittersweet emotions with grace and subtlety.
+
+Explanation:  
+This playlist centers on calm piano compositions that evoke sadness through melodic, reflective, and subtle expressions of emotion. The focus is on pieces that provide emotional release and comfort rather than intensity, matching the context’s definition of 'sad = calm, piano.'
+EVAL: {'score': 2, 'confidence': 0.6666666666666666, 'length': 1170}
+
+TIME: 2026-04-30 15:11:02.608787
+INPUT: sad music
+OUTPUT: Playlist for Sad Music (calm, piano):
+
+1. **"River Flows in You" – Yiruma**  
+A gentle, emotive piano piece that evokes a tender, melancholic mood, perfect for quiet reflection.
+
+2. **"Comptine d’un autre été: L’après-midi" – Yann Tiersen**  
+This calm and delicate piano composition carries a wistful, bittersweet feeling, enhancing a sad atmosphere.
+
+3. **"Nuvole Bianche" – Ludovico Einaudi**  
+A soothing piano solo with a slow build that captures the essence of serene sadness and introspection.
+
+4. **"Experience" – Ludovico Einaudi**  
+Though slightly more dynamic, its repetitive, flowing piano motifs remain calm and emotionally stirring, aligning with a reflective melancholy.
+
+5. **"Gymnopédie No.1" – Erik Satie**  
+Famous for its simplicity and tranquility, this piece gently conveys a peaceful, introspective sadness.
+
+6. **"Spiegel im Spiegel" – Arvo Pärt**  
+Minimalistic and serene piano and violin duet that embodies quiet sorrow and calmness.
+
+Explanation:  
+This playlist focuses on calm piano pieces that evoke emotional depth without overwhelming energy, aligning with the sad mood defined as calm, piano-based music. Each composition creates space for contemplation and emotional release through subtle melodies and gentle instrumentation.
+EVAL: {'score': 2, 'confidence': 0.6666666666666666, 'length': 1262}
+
+TIME: 2026-04-30 15:12:13.262157
+INPUT: workout playlist
+OUTPUT: To improve the workout playlist based on the critique, focus on maintaining a consistent high-energy vibe throughout. Here are specific suggestions:
+
+1. **Remove slower, emotional, or ambient tracks:**  
+   - Remove "Someone Like You" by Adele and "Weightless" (ambient) from the playlist, as these tracks reduce workout momentum.
+
+2. **Add more upbeat, motivating songs:**  
+   Introduce additional energetic songs across hip-hop, pop, and electronic genres to sustain motivation and rhythm. Examples include:  
+   - "Stronger" by Kanye West (hip-hop, motivational)  
+   - "Can't Hold Us" by Macklemore & Ryan Lewis (upbeat, driving tempo)  
+   - "Titanium" by David Guetta ft. Sia (high-energy electronic pop)  
+   - "Uptown Funk" by Mark Ronson ft. Bruno Mars (danceable funk pop)  
+   - "Power" by Kanye West (intense and energizing)  
+   - "Don't Start Now" by Dua Lipa (disco-inspired upbeat pop)  
+
+3. **Use pacing to build and sustain energy:**  
+   - Start with mid-tempo warm-up tracks like "Sunflower" by Post Malone or "Can't Stop the Feeling!" by Justin Timberlake.  
+   - Progress into fast-paced, high-intensity tracks like "Lose Yourself" and "Blinding Lights."  
+   - Finish with energetic but slightly less intense songs to cool down without losing motivation.
+
+4. **Maintain thematic consistency:**  
+   Stick to songs that lyrically or sonically promote strength, confidence, and endurance to psychologically support workout efforts.
+
+---
+
+**Revised sample workout playlist:**
+
+1. "Can't Stop the Feeling!" – Justin Timberlake  
+2. "Sunflower" – Post Malone  
+3. "Blinding Lights" – The Weeknd  
+4. "Uptown Funk" – Mark Ronson ft. Bruno Mars  
+5. "Lose Yourself" – Eminem  
+6. "Stronger" – Kanye West  
+7. "Titanium" – David Guetta ft. Sia  
+8. "Power" – Kanye West  
+9. "Can't Hold Us" – Macklemore & Ryan Lewis  
+10. "Don't Start Now" – Dua Lipa  
+
+With this approach, the playlist keeps energy consistently high, maximizes motivation, and supports varied workout phases without losing momentum.
+EVAL: {'score': 2, 'confidence': 0.6666666666666666, 'length': 2017}
+
+TIME: 2026-04-30 15:13:19.872467
+INPUT: sad music
+OUTPUT: Playlist for Sad Music (calm, piano):
+
+1. **"River Flows in You" – Yiruma**  
+A gentle, flowing piano piece that evokes a sense of quiet reflection and melancholy, perfect for embracing sadness with calmness.
+
+2. **"Comptine d’un autre été: L’après-midi" – Yann Tiersen**  
+Tender and delicate, this track’s minimalist piano melodies create an introspective and wistful atmosphere.
+
+3. **"Experience" – Ludovico Einaudi**  
+Slow-building and emotive, this composition blends piano with subtle orchestral elements to convey deep, heartfelt sorrow.
+
+4. **"Nuvole Bianche" – Ludovico Einaudi**  
+A serene piano solo that balances sadness with hope, ideal for moments of contemplative calm.
+
+5. **"Opus 23" – Dustin O’Halloran**  
+Soft and melancholic piano, capturing the fragile emotions associated with sadness while maintaining a soothing presence.
+
+6. **"Prelude in E Minor" Op. 28 No. 4 – Frédéric Chopin**  
+A classical piano piece renowned for its somber and introspective mood, beautifully expressing emotional depth.
+
+This playlist embraces the calm, piano-driven sadness that allows for emotional release without overwhelming intensity.
+EVAL: {'score': 2, 'confidence': 0.6666666666666666, 'length': 1143}
+
+TIME: 2026-04-30 15:13:26.160971
+INPUT: workout playlist
+OUTPUT: Workout Playlist:
+
+1. **Blinding Lights - The Weeknd**  
+   *Upbeat synth-pop with driving rhythms that boost energy and keep you motivated during cardio or high-intensity intervals.*
+
+2. **Lose Yourself - Eminem**  
+   *Motivational hip-hop with a powerful beat and intense lyrics that inspire focus and determination, perfect for pushing through tough sets.*
+
+3. **Sunflower - Post Malone**  
+   *A relaxed yet rhythmic track blending hip-hop and pop vibes, ideal for warming up or cooling down while maintaining momentum.*
+
+**Explanation:**  
+The playlist combines high-energy tracks like "Blinding Lights" and "Lose Yourself" to fuel intense workout moments, while including "Sunflower" for moderate pacing phases. Tracks like "Someone Like You" and "Weightless" are omitted here as their calm, emotional tone doesn't align well with workout intensity needs.
+EVAL: {'score': 2, 'confidence': 0.6666666666666666, 'length': 862}
+
+TIME: 2026-04-30 15:13:29.585327
+INPUT: chill study music
+OUTPUT: Output:  
+**Playlist:** Lofi Hip-Hop, Chill Jazz Beats, Ambient Instrumentals  
+
+**Explanations:**  
+- **Lofi Hip-Hop:** Known for its relaxed, downtempo beats and warm textures, lofi hip-hop creates a calming atmosphere conducive to focus while avoiding distractions.  
+- **Chill Jazz Beats:** Smooth jazz elements combined with laid-back rhythms add richness and variety without breaking concentration.  
+- **Ambient Instrumentals:** Soft, unobtrusive soundscapes that enhance focus by providing a gentle sonic background, perfect for extended study sessions.  
+
+This mix balances mellow beats and soothing melodies designed to maintain a steady concentration flow, ideal for chill study vibes.
+EVAL: {'score': 2, 'confidence': 0.6666666666666666, 'length': 696}
+
+TIME: 2026-04-30 15:13:36.852829
+INPUT: party songs
+OUTPUT: Output:  
+**Playlist: Energetic EDM and Dance Hits for the Ultimate Party Vibe**
+
+1. **"Titanium" by David Guetta ft. Sia** – A powerful EDM anthem with soaring vocals and explosive drops to get everyone moving.  
+2. **"Don't Start Now" by Dua Lipa** – A dance-pop track with funky basslines and infectious rhythms perfect for lively dance floors.  
+3. **"Levels" by Avicii** – An iconic EDM track known for its uplifting melody and build-ups that ignite party energy.  
+4. **"One More Time" by Daft Punk** – Classic dance electronic tune with a repetitive, catchy beat ideal for non-stop dancing.  
+5. **"Turn Down for What" by DJ Snake & Lil Jon** – High-intensity trap-influenced EDM that turns up the hype and energy.  
+6. **"Wake Me Up" by Avicii** – Blends EDM with folk influences, offering emotional build-ups that keep the party engaged.  
+7. **"Lean On" by Major Lazer & DJ Snake ft. MØ** – A tropical house hit with dancehall vibes perfect for a summer party feel.  
+8. **"Scary Monsters and Nice Sprites" by Skrillex** – Dubstep-driven track with heavy bass drops that electrify the crowd.  
+9. **"Prayer in C" (Robin Schulz Remix) by Lilly Wood & The Prick** – A deep house remix with catchy beats for smooth dance grooves.  
+10. **"Wake Up" by Bingo Players** – Future house anthem with vibrant synths and energetic tempo to keep the dance floor alive.  
+
+**Explanation:**  
+This playlist is curated to maintain a high-energy atmosphere central to party environments, featuring EDM tracks that combine powerful drops, catchy beats, and danceable rhythms. The selections balance mainstream appeal with festival bangers, ensuring a dynamic flow that encourages nonstop dancing and an immersive party experience.
+EVAL: {'score': 2, 'confidence': 0.6666666666666666, 'length': 1723}
+
+TIME: 2026-04-30 15:16:37.035939
+INPUT: sad music
+OUTPUT: Playlist: "Melancholic Mornings – Calm Piano Reflections"
+
+1. **"River Flows in You" – Yiruma**  
+   A gentle, flowing piano piece that captures a bittersweet yet soothing mood, perfect for embracing sadness with calmness.
+
+2. **"Nuvole Bianche" – Ludovico Einaudi**  
+   Minimalistic piano melodies evoke introspection and quiet emotional depth, allowing space for gentle sadness.
+
+3. **"Comptine d'un autre été: L'après-midi" – Yann Tiersen**  
+   Soft, repetitive piano lines create a melancholic atmosphere that feels both nostalgic and tender.
+
+4. **"Opus 55" – Dustin O’Halloran**  
+   Sparse and delicate notes build a reflective, calming soundscape aligned with a sad but peaceful mood.
+
+5. **"Una Mattina" – Ludovico Einaudi**  
+   Fluid piano harmonies that feel intimate and emotionally raw, ideal for moments of quiet sadness.
+
+6. **"Experience" (Piano Version) – Ludovico Einaudi**  
+   A stirring piano arrangement that gradually unfolds sorrow with beauty and restraint.
+
+7. **"Kiss the Rain" – Yiruma**  
+   A calming yet emotional piano ballad, it evokes feelings of longing and gentle melancholy.
+
+**Explanation:**  
+This playlist focuses on calm piano compositions that embody sadness through subtle, emotional melodies. The piano’s expressive range supports a reflective and soothing atmosphere, helping listeners process feelings of melancholy without overwhelming intensity. The selected tracks balance emotional depth and tranquility, ideal for moments of sadness that call for peaceful contemplation.
+EVAL: {'score': 2, 'confidence': 0.6666666666666666, 'length': 1524}
+
+TIME: 2026-04-30 15:17:36.704034
+INPUT: workout playlist
+OUTPUT: Workout Playlist:
+
+1. **"Lose Yourself" - Eminem**  
+A classic high-energy rap song with intense beats and motivational lyrics that pump you up and keep you focused during the workout.
+
+2. **"Blinding Lights" - The Weeknd**  
+An upbeat, synth-driven pop track with a fast tempo that maintains energy and rhythm, perfect for cardio or high-intensity intervals.
+
+3. **"Sunflower" - Post Malone**  
+A laid-back hip-hop/pop fusion with a steady groove that works well for warm-ups or cool-down phases, keeping the vibe smooth yet engaging.
+
+Note:  
+While "Someone Like You" by Adele and "Weightless" (Ambient) are excellent for relaxation, they have a slow tempo and emotional tone that aren’t conducive to maintaining workout energy, so they are best excluded from this playlist.
+EVAL: {'score': 2, 'confidence': 0.6666666666666666, 'length': 776}
+
+TIME: 2026-04-30 15:19:58.879599
+INPUT: sad music
+OUTPUT: Output: A playlist centered around calm piano pieces and emotional acoustic songs perfectly matches a sad mood by providing soothing, reflective sounds that encourage introspection. Gentle piano melodies often evoke feelings of melancholy and vulnerability, making them apt for moments of sadness. Similarly, acoustic songs with heartfelt lyrics and minimal instrumentation create an intimate atmosphere, enhancing the emotional experience without overwhelming the listener. Together, these genres offer a compassionate, calming soundtrack that respects and accompanies feelings of sadness.
+EVAL: {'score': 1, 'confidence': 0.3333333333333333, 'length': 590}
+
+TIME: 2026-04-30 15:21:54.510607
+INPUT: sad music
+OUTPUT: Playlist for Sad Music (calm, piano):
+
+1. **"River Flows In You" by Yiruma**  
+A gentle, flowing piano piece that evokes a sense of melancholy and peaceful reflection, perfect for a sad mood.
+
+2. **"Comptine d’un autre été: L’après-midi" by Yann Tiersen**  
+Delicate and wistful piano melody that captures a bittersweet, introspective feeling.
+
+3. **"Nuvole Bianche" by Ludovico Einaudi**  
+Minimalist piano work with a melancholic undertone, creating a soothing yet emotionally deep atmosphere.
+
+4. **"Experience" by Ludovico Einaudi**  
+A calm piano-driven track with a gradual build, conveying sadness with quiet strength.
+
+5. **"Home" by Agnes Obel**  
+While featuring piano prominently, this track combines soft vocals and a somber mood, aligning well with calm sadness.
+
+6. **"Meditation" by Jules Massenet (arr. for solo piano)**  
+A classical piano piece with gentle, sorrowful tones that suit reflective sadness.
+
+Explanation:  
+This playlist focuses on calm piano compositions with emotional depth to match a sad mood. These selections use minimal instrumentation, primarily piano, to evoke introspection and melancholy without overwhelming intensity. The gentle, flowing melodies help listeners process sadness in a soothing, contemplative space.
+EVAL: {'score': 2, 'confidence': 0.6666666666666666, 'length': 1257}
+
+TIME: 2026-04-30 15:23:09.792966
+INPUT: workout playlist
+OUTPUT: Here's an improved version of your workout playlist based on the critique, focusing on maintaining a high-energy and motivating vibe throughout. I've replaced "Sunflower" with more upbeat tracks, added a few more energetic songs, and organized the playlist for a strong flow that works for warm-up, peak workout, and cool-down phases.
+
+---
+
+### Optimized Workout Playlist:
+
+1. **"Blinding Lights" - The Weeknd**  
+   Upbeat synth-pop energy to kickstart your warm-up and get the blood flowing.
+
+2. **"Can't Hold Us" - Macklemore & Ryan Lewis feat. Ray Dalton**  
+   High-energy with a driving beat and uplifting vibe—perfect for building momentum early.
+
+3. **"Lose Yourself" - Eminem**  
+   Motivational intensity and a strong rhythm, ideal for pushing through tough sets or high-intensity intervals.
+
+4. **"Stronger" - Kanye West**  
+   Featuring powerful beats and the famous Daft Punk sample, this track encourages resilience and strength.
+
+5. **"Uptown Funk" - Mark Ronson feat. Bruno Mars**  
+   Funky, fast-paced, and fun—great for keeping energy high and spirits up during cardio or circuit training.
+
+6. **"Eye of the Tiger" - Survivor**  
+   A classic motivational anthem with a steady beat to power through challenges.
+
+7. **"Titanium" - David Guetta feat. Sia**  
+   Energetic electronic beats combined with powerful vocals to sustain motivation during high-intensity efforts.
+
+8. **"Pump It" - The Black Eyed Peas**  
+   A fast tempo and aggressive rhythm perfect for keeping adrenaline high.
+
+9. **"Don't Stop Me Now" - Queen**  
+   Up-tempo and exuberant, great for maintaining peak workout energy.
+
+10. **"Can't Stop the Feeling!" - Justin Timberlake**  
+    Bright, cheerful, and rhythmic for ending your session on a high note or during cooldown.
+
+---
+
+### Notes:  
+- Removed "Sunflower" by Post Malone as it slows momentum.  
+- Added consistently high-tempo, motivating tracks to keep energy and focus strong throughout.  
+- Included a mix of modern tracks and timeless workout anthems for variety and sustained engagement.  
+- For cool-down or relaxation, consider a separate playlist with mellow tracks like "Someone Like You" by Adele or "Weightless" (Ambient).
+
+---
+
+Would you like me to suggest specific BPM ranges or tailor the playlist to a particular workout type (e.g., HIIT, steady-state cardio, weightlifting)?
+EVAL: {'score': 2, 'confidence': 0.6666666666666666, 'length': 2340}
+
+TIME: 2026-04-30 15:24:32.511448
+INPUT: sad music
+OUTPUT: Playlist for Sad Music (calm, piano):
+
+1. **"River Flows in You" by Yiruma**  
+   A gentle piano piece that evokes introspective and tender emotions, perfect for moments of sadness and reflection.
+
+2. **"Comptine d’un autre été: L'après-midi" by Yann Tiersen**  
+   Minimalist piano melodies with a melancholic touch, this track captures a bittersweet, contemplative mood.
+
+3. **"Experience" by Ludovico Einaudi**  
+   Slow-building piano composition that conveys a deep emotional weight, offering both calmness and sorrow.
+
+4. **"Una Mattina" by Ludovico Einaudi**  
+   Soft and repetitive piano patterns create an intimate atmosphere suitable for processing sadness.
+
+5. **"Nuvole Bianche" by Ludovico Einaudi**  
+   A flowing piano melody that gently stirs feelings of melancholy while remaining soothing.
+
+6. **"The Night We Met" (Piano Cover) by Lord Huron**  
+   Heartfelt and delicate piano interpretation of a sad song, emphasizing emotional vulnerability.
+
+7. **"Opus 23" by Dustin O’Halloran**  
+   Sparse piano notes filled with quiet emotion, ideal for calming a sad mind.
+
+Explanation:  
+This playlist focuses on calm piano tracks that inspire introspection and subtle emotional release without overwhelming the listener. The soothing melodies support sadness by providing a gentle, contemplative sonic environment conducive to healing and emotional connection.
+EVAL: {'score': 2, 'confidence': 0.6666666666666666, 'length': 1374}
+
+TIME: 2026-04-30 15:24:36.149563
+INPUT: workout playlist
+OUTPUT: Output:
+For a workout playlist, it's important to have energetic and motivating tracks that keep the momentum high. From the given context:
+
+- "Lose Yourself" by Eminem: A powerful hip-hop anthem with intense lyrics and driving beats, perfect for motivation during a workout.
+- "Blinding Lights" by The Weeknd: An upbeat synth-pop track with a fast tempo that helps maintain energy levels.
+- "Sunflower" by Post Malone: Though more laid-back, its catchy rhythm can provide a good cool-down or steady pace section.
+
+"Someone Like You" by Adele and "Weightless" (Ambient) are more calming and emotional, so they could serve as warm-up or cool-down songs but are less suitable for the main workout segments.
+
+Playlist recommendation:
+- Start with "Sunflower" for a steady warm-up.
+- Move into "Blinding Lights" to elevate energy.
+- Push hard with "Lose Yourself" at peak workout.
+- Conclude with "Weightless" and "Someone Like You" for cool down and recovery.
+
+This mix balances motivation and pacing suited to a workout session.
+EVAL: {'score': 2, 'confidence': 0.6666666666666666, 'length': 1026}
+
+TIME: 2026-04-30 15:24:40.256489
+INPUT: chill study music
+OUTPUT: Output:  
+**Chill Study Music Playlist**  
+
+1. **Lo-fi Hip-Hop Beats** – Smooth, repetitive beats with soft vinyl crackle create a relaxing atmosphere that helps maintain focus without distracting lyrics.  
+2. **Ambient Electronic Tracks** – Gentle synth pads and subtle rhythms provide an unobtrusive background, fostering concentration and creativity.  
+3. **Acoustic Instrumentals** – Soft guitar or piano melodies add warmth and organic texture, keeping the mood mellow and supportive for long study sessions.  
+4. **Jazz-Hop Instrumentals** – Fusion of laid-back jazz chords with hip-hop beats offering a bit of groove that energizes yet remains non-intrusive.  
+5. **Nature Sounds with Minimal Beats** – Sounds like rain or forest combined with minimal percussion bring calmness and help drown out distracting noise.  
+
+This playlist combines chill lofi elements with complementary genres designed to enhance focus and relaxation, making study time more productive and enjoyable.
+EVAL: {'score': 2, 'confidence': 0.6666666666666666, 'length': 985}
+
+TIME: 2026-04-30 15:24:42.084667
+INPUT: party songs
+OUTPUT: Output: energetic dance-pop anthems, upbeat EDM festival hits, and crowd-pleasing house tracks. These songs feature infectious beats, catchy hooks, and pulsating rhythms designed to keep the dance floor alive and create an unforgettable party atmosphere.
+EVAL: {'score': 2, 'confidence': 0.6666666666666666, 'length': 254}

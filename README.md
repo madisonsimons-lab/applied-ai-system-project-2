@@ -41,4 +41,4 @@ I used retrieval to improve relevance, an agent workflow to improve outputs, and
 This project showed how AI systems can be improved through iteration and structured workflows.
 
 ## Demo Video
-(Add Loom link here)
+(https://www.loom.com/share/2995afffefa6470fb76bae0f33558135)
