@@ -1,0 +1,3 @@
+lofi = chill, study
+edm = energetic
+acoustic = emotional

@@ -1,0 +1,4 @@
+sad = calm, piano
+happy = upbeat, pop
+focus = instrumental
+party = dance, edm
