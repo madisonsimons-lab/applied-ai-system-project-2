@@ -44,3 +44,47 @@ OUTPUT: Playlist:
 Explanation:  
 Given that the mood is sad and seeking calm music, piano and emotional acoustic tracks fit best as per the context. This playlist combines emotive vocals with calming piano and ambient sounds to help soothe sadness while maintaining a tranquil atmosphere.
 EVAL: {'score': 2, 'confidence': 0.6666666666666666, 'length': 740}
+
+TIME: 2026-04-30 14:44:30.925633
+INPUT: sad music
+OUTPUT: **Playlist for Sad Music (Calm, Piano-Focused)**
+
+1. **"Comptine d'un autre été: L'après-midi" – Yann Tiersen**  
+   A gentle, melancholic piano piece that evokes introspection and quiet sadness, perfect for reflecting in solitude.
+
+2. **"River Flows in You" – Yiruma**  
+   Soft and flowing piano melodies that carry a soothing yet emotionally tender mood, embodying calm sorrow.
+
+3. **"Nuvole Bianche" – Ludovico Einaudi**  
+   Minimalist piano composition with heartfelt harmonic progressions, expressing both melancholy and hopefulness gently intertwined.
+
+4. **"Experience" – Ludovico Einaudi**  
+   While slightly more dynamic, it retains a calm and reflective tone, conveying an emotional depth through subtle piano-driven motifs.
+
+5. **"Dawn" – Dario Marianelli (from Pride & Prejudice)**  
+   A beautifully tender piano piece that captures the delicate balance of sadness and serenity.
+
+6. **"Una Mattina" – Ludovico Einaudi**  
+   A poignant, contemplative solo piano track resonating with quiet sadness and emotional clarity.
+
+7. **"Opus 55" – Dustin O'Halloran**  
+   Sparse and introspective piano notes create a peaceful yet somber atmosphere, inviting emotional reflection.
+
+---
+
+**Explanation:**  
+This playlist centers around calm piano music that embodies sadness not through intensity or dramatic power but through subtlety, simplicity, and emotional nuance. The selections focus on gentle piano melodies that invite introspection and a peaceful kind of melancholy, aligning perfectly with the context of sad = calm, piano.
+EVAL: {'score': 2, 'confidence': 0.6666666666666666, 'length': 1542}
+
+TIME: 2026-04-30 14:48:39.955903
+INPUT: sad music
+OUTPUT: Output: A playlist for sad music, focusing on calm piano and emotional acoustic songs, would include gentle piano compositions and soulful acoustic tracks that evoke introspection and soothe melancholy feelings. Examples might be:
+
+1. **“River Flows in You” by Yiruma** – a delicate piano piece that conveys tender emotions.
+2. **“Skinny Love” (Acoustic) by Bon Iver** – raw, emotional vocals paired with soft guitar.
+3. **“Comptine d’un autre été” by Yann Tiersen** – evocative piano melodies that paint a wistful atmosphere.
+4. **“The Night We Met” (Acoustic) by Lord Huron** – an intimate acoustic rendition filled with longing.
+5. **“Nuvole Bianche” by Ludovico Einaudi** – minimalist piano that gently stirs somber moods.
+
+This selection supports a calm, reflective listening experience suited to moments of sadness, using sparse instrumentation and heartfelt lyricism to comfort and connect.
+EVAL: {'score': 1, 'confidence': 0.3333333333333333, 'length': 897}

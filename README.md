@@ -11,7 +11,7 @@ The system follows this pipeline:
 Input → Retrieval → AI Generation → Critique → Refinement → Evaluation → Logging
 
 ## System Diagram
-![System Diagram](assets/system_diagram.png)
+![System Diagram](assets/mermaid-diagram-4.png)
 
 ## Setup
 

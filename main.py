@@ -24,7 +24,8 @@ def run_system(user_input):
     return safe_output, evaluation
 
 if __name__ == "__main__":
-    user_input = "I feel sad and want calm music"
+    user_input = input("Enter a mood or request: ")
+
     output, eval_data = run_system(user_input)
 
     print("\nINPUT:", user_input)
